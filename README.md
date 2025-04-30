@@ -65,7 +65,7 @@ Pull requests are welcome! If you have suggestions for improvements, new feature
 - Thanks to the data providers (e.g., Kaggle contributors)
 - Tools used: Microsoft Power BI
 
----
+
 
 ## 📈 Key Insights from IPL Analysis
 
