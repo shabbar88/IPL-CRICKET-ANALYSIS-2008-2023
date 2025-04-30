@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="IPL_DASHBOARD.PNG" alt="IPL Dashboard Screenshot" width="800"/>
+</p>
+
+<h2 align="center">IPL Analysis Dashboard (Power BI)</h2>
+
+
 # 🏏 IPL Analysis Dashboard (Power BI)
 
 This project presents an interactive analysis of the Indian Premier League (IPL) using Power BI. It explores team and player performance across multiple seasons to uncover trends, statistics, and insights.
