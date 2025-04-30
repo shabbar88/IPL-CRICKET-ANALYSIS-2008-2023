@@ -41,6 +41,7 @@ The data used in this project is based on IPL match statistics, typically obtain
 - Match details
 - Team and player statistics
 - Season outcomes
+- U can download dataset from [Drive Link]  (https://drive.google.com/drive/folders/1X3MRPVegaEe5Lfn4aQ3A_VTEi7AnYjxc?usp=drive_link)
 
 
 
